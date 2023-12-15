@@ -9,7 +9,7 @@ BG_GREY = (188, 188, 188)
 
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Kolesa")
+pygame.display.set_caption("Kolesiki")
 clock = pygame.time.Clock()
 
 
